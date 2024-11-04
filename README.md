@@ -41,10 +41,12 @@ Voici quelques-unes des technologies et des outils avec lesquels j'ai travaillé
 
 Voici quelques-uns de mes projets récents :
 
-1. **Creation d'un component à partir de MUI-X DataGrid** - Creation d'un tableau réutilisable dans toute une app Web.
+1. **Rpojet 42 Camagru** - Creation d'une app de photos semblable à Instagram - Utilisation du PHP
+
+2. **Creation d'un component à partir de MUI-X DataGrid** - Creation d'un tableau réutilisable dans toute une app Web.
    - [Lien non disponible](#)
 
-2. **Creation d'une app de Pong en équipe** - Creation d'une Single Page Application pour pouvoir jouer à Pong en ligne ou sur le même ordinateur (fait avec [Emmanuel](https://github.com/eguefif), [Maxime](https://github.com/PelletierM), [Maxil](https://github.com/Totoleader) et [Samuel](https://github.com/cloutiersamuel42)).
+3. **Creation d'une app de Pong en équipe** - Creation d'une Single Page Application pour pouvoir jouer à Pong en ligne ou sur le même ordinateur (fait avec [Emmanuel](https://github.com/eguefif), [Maxime](https://github.com/PelletierM), [Maxil](https://github.com/Totoleader) et [Samuel](https://github.com/cloutiersamuel42)).
    - [42 Ft-Transcendance](https://github.com/rofont/42-ft_transcendence)
 
 
